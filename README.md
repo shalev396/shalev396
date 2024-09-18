@@ -42,11 +42,11 @@ I am a passionate **Full Stack Web Developer** and **Android App Developer** bas
 
 ### Projects
 
-1. [Front End Mentor Projects](#) - Various challenges focused on front-end development.
-2. [Password Protector](#) - A website built with Node.js and SQL Server for managing secure passwords.
-3. [Fleemarket](#) - A second-hand online shop platform for buyers and sellers (android app + firebase integration).
-4. [API Testing](#) - A Node.js server project communicating with third-party APIs.
-5. [AutoPullRepo](#) - A batch project that automates pulling repositories, can be set to launch at startup.
+1. [Front End Mentor Projects](https://github.com/shalev396/Frontend-Mentor-projects) - Various challenges focused on front-end development.
+2. [Password Protector](https://github.com/shalev396/PasswordProtector) - A website built with Node.js and SQL Server for managing secure passwords. (currently private)
+3. [Fleemarket](https://github.com/shalev396/Android-project-Fleemarket) - A second-hand online shop platform for buyers and sellers (android app + firebase integration).
+4. [API Testing](https://github.com/shalev396/ApiTesting) - A Node.js server project communicating with third-party APIs.
+5. [AutoPullRepo](https://github.com/shalev396/Batch-AutoPullRepo) - A batch project that automates pulling repositories, can be set to launch at startup.
 6. Coming Soon...
 
 ### My Tech Toolbox
