@@ -311,16 +311,22 @@ Explore a curated collection of practical frontend challenges completed as part 
 
 <table>
   <tr>
-    <td align="center">
-      <h3>IITC Fullstack Certificate of Excellence</h3>
+    <td align="center" style="vertical-align: top;">
+      <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
+        <h3>IITC Fullstack Certificate of Excellence</h3>
+      </div>
       <img src="https://shalev396.com/awards/Fullstack-certificate-of-excellence.jfif" alt="IITC Certificate" width="300px">
     </td>
-    <td align="center">
-      <h3>1st Place in IITC Hackathon</h3>
+    <td align="center" style="vertical-align: top;">
+      <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
+        <h3>1st Place in IITC Hackathon</h3>
+      </div>
       <img src="https://shalev396.com/awards/1st-place-in-IITC-Hackathon.jfif" alt="Hackathon Award" width="300px">
     </td>
-    <td align="center">
-      <h3>Certificate of Excellence - Brigadier General Shay Kleper</h3>
+    <td align="center" style="vertical-align: top;">
+      <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
+        <h3>Certificate of Excellence - Brigadier General Shay Kleper</h3>
+      </div>
       <img src="https://shalev396.com/awards/Certificate-of-excellence-91st-division.jfif" alt="Military Excellence Certificate" width="300px">
     </td>
   </tr>
