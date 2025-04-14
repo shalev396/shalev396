@@ -143,7 +143,7 @@ Not ALONE is an innovative platform created to bridge the gap between lone soldi
   </a>
 </p>
 
-<hr style="border: 0; height: 2px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 30px 0;">
+<hr style="border-top: 3px solid #bbb;">
 
 <h3 align="center">Fleemarket</h3>
 <p align="center">
@@ -173,7 +173,7 @@ Flea Market is an innovative online platform designed to connect buyers and sell
   </a>
 </p>
 
-<hr style="border: 0; height: 2px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 30px 0;">
+<hr style="border-top: 3px solid #bbb;">
 
 <h3 align="center">Instagram Clone</h3>
 <p align="center">
@@ -220,7 +220,7 @@ Instagram clone, meticulously crafted for mobile-first users. This project repli
   </a>
 </p>
 
-<hr style="border: 0; height: 2px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 30px 0;">
+<hr style="border-top: 3px solid #bbb;">
 
 <h3 align="center">Netflix Clone</h3>
 <p align="center">
@@ -249,7 +249,7 @@ A comprehensive recreation of the Netflix streaming platform, featuring dynamic 
   </a>
 </p>
 
-<hr style="border: 0; height: 2px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 30px 0;">
+<hr style="border-top: 3px solid #bbb;">
 
 <h3 align="center">Frontend Mentor Showcase</h3>
 <p align="center">
@@ -279,6 +279,8 @@ Explore a curated collection of practical frontend challenges completed as part 
   </a>
 </p>
 
+<hr style="border-top: 3px solid #bbb;">
+
 ## <p align="center">Professional Experience</p>
 
 <h3 align="center">TLVTech</h3>
@@ -307,22 +309,22 @@ Explore a curated collection of practical frontend challenges completed as part 
 
 ## <p align="center">Certifications & Achievements</p>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center; flex: 1; min-width: 300px; max-width: 400px;">
-    <h3>IITC Fullstack Certificate of Excellence</h3>
-    <img height="300px" width="350px" src="https://shalev396.com/awards/Fullstack-certificate-of-excellence.jfif" alt="IITC Certificate" style="object-fit: contain;"/>
-  </div>
-  
-  <div style="text-align: center; flex: 1; min-width: 300px; max-width: 400px;">
-    <h3>1st Place in IITC Hackathon</h3>
-    <img height="300px" width="350px" src="https://shalev396.com/awards/1st-place-in-IITC-Hackathon.jfif" alt="Hackathon Award" style="object-fit: contain;"/>
-  </div>
-  
-  <div style="text-align: center; flex: 1; min-width: 300px; max-width: 400px;">
-    <h3>Certificate of Excellence - Brigadier General Shay Kleper</h3>
-    <img height="300px" width="350px" src="https://shalev396.com/awards/Certificate-of-excellence-91st-division.jfif" alt="Military Excellence Certificate" style="object-fit: contain;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>IITC Fullstack Certificate of Excellence</h3>
+      <img src="https://shalev396.com/awards/Fullstack-certificate-of-excellence.jfif" alt="IITC Certificate" width="300px">
+    </td>
+    <td align="center">
+      <h3>1st Place in IITC Hackathon</h3>
+      <img src="https://shalev396.com/awards/1st-place-in-IITC-Hackathon.jfif" alt="Hackathon Award" width="300px">
+    </td>
+    <td align="center">
+      <h3>Certificate of Excellence - Brigadier General Shay Kleper</h3>
+      <img src="https://shalev396.com/awards/Certificate-of-excellence-91st-division.jfif" alt="Military Excellence Certificate" width="300px">
+    </td>
+  </tr>
+</table>
 
 ## <p align="center">Let's Connect</p>
 
