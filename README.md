@@ -1,8 +1,8 @@
 # Shalev Ben Moshe
 
-Full-stack developer and QA automation at TLVTech. Studying at [Braude College of Engineering](https://w3.braude.ac.il/).
+Full-stack developer and QA automation at [TLVTech](https://www.tlvtech.io/). Studying at [Braude College of Engineering](https://w3.braude.ac.il/).
 
-[the desk](https://shalev396.com/en/) · [AI Lab](https://shalev396.com/en/ai) · [Hugging Face](https://huggingface.co/shalev396) · [LinkedIn](https://www.linkedin.com/in/shalev-ben-moshe-08a8a3176/) · [shalev396@gmail.com](mailto:shalev396@gmail.com)
+[my website](https://shalev396.com/en/) · [AI Lab](https://shalev396.com/en/ai) · [Hugging Face](https://huggingface.co/shalev396) · [LinkedIn](https://www.linkedin.com/in/shalev-ben-moshe-08a8a3176/) · [shalev396@gmail.com](mailto:shalev396@gmail.com)
 
 ## So far
 
@@ -10,9 +10,9 @@ High school at Ironi G was 10 study units in software engineering, and the final
 
 3.2 years on the Lebanon border with Komets in the 300th Brigade, ending as a team leader, with a certificate of excellence from Brig. Gen. Shay Kleper of the 91st Division.
 
-IITC came next: full-stack development and test automation, first place in the 2024 hackathon, and another certificate of excellence.
+[IITC](https://iitc.co.il/) came next: full-stack development and test automation, first place in the 2024 hackathon, and another certificate of excellence.
 
-An internship at TLVTech, then the role I have there now, alongside the degree at Braude.
+An internship at [TLVTech](https://www.tlvtech.io/), then the role I have there now, alongside the degree at [Braude](https://w3.braude.ac.il/).
 
 If you want to know a bit more, it's on [my website](https://shalev396.com/en/).
 
